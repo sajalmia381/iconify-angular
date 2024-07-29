@@ -6,11 +6,11 @@ Angular implementation of [Iconify](https://github.com/iconify/iconify), strongl
 
 If you are using NPM:
 
-`npm install @visurel/iconify-angular`
+`npm install @mia/iconify-angular`
 
 If you are using Yarn:
 
-`yarn add @visurel/iconify-angular`
+`yarn add @mia/iconify-angular`
 
 This package does not include icons. Icons are split into separate packages that available at NPM. See [Iconify-React](https://github.com/iconify/iconify-react#icon-packages).
 
