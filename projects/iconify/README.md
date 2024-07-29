@@ -77,3 +77,8 @@ Run `ng test iconify` to execute the unit tests via [Karma](https://karma-runner
 ### Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+# Major Changes Log
+
+- 13.x.x -> Tested with 13.x.x
