@@ -1,4 +1,4 @@
-import { IconService } from './../../projects/iconify/src/lib/icon.service';
+import { IconService } from '@mia/iconify-angular';
 import { Component } from '@angular/core';
 import home from '@iconify/icons-mdi/home';
 import groupAdd from '@iconify/icons-mdi/group-add';
