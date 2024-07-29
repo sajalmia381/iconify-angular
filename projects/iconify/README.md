@@ -83,4 +83,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 - 13.x.x -> Tested with 13.x.x
 - 14.x.x -> Tested with 14.x.x
-
+- 15.x.x -> Tested with 15.x.x
