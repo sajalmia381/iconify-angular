@@ -82,3 +82,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 # Major Changes Log
 
 - 13.x.x -> Tested with 13.x.x
+- 14.x.x -> Tested with 14.x.x
+
