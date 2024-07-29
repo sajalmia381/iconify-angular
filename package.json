@@ -9,7 +9,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "build:lib": "ng build iconify",
-    "publish": "npm publish ./dist/as-prism"
+    "publish": "npm publish ./dist/iconify"
   },
   "private": true,
   "dependencies": {
